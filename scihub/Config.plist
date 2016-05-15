@@ -10,7 +10,7 @@
 			<key>Title</key>
 			<string>scihub</string>
 			<key>URL</key>
-			<string>http://scholar.google.com.secure.sci-hub.io/scholar?q={popclip text}</string>
+			<string>http://sci-hub.cc/{popclip text}</string>
 		</dict>
 	</array>
 	<key>Extension Description</key>
